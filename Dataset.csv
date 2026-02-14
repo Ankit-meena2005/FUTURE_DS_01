@@ -1,0 +1,101 @@
+Order ID,Order Date,Region,Category,Product Name,Quantity,Sales,Profit
+1001,2025-01-02,West,Furniture,Office Chair,2,52514,10708
+1002,2025-07-30,North,Technology,Laptop,8,349360,69212
+1003,2025-03-09,North,Technology,Smartwatch,6,72120,7264
+1004,2025-03-03,East,Furniture,Bookshelf,1,39473,4816
+1005,2025-01-11,West,Office Supplies,Stapler,7,117292,21540
+1006,2025-02-17,East,Furniture,Bookshelf,10,119560,20628
+1007,2025-01-27,North,Technology,Smartphone,3,52044,8891
+1008,2025-02-06,West,Furniture,Office Chair,10,426830,88287
+1009,2025-01-12,South,Technology,Laptop,5,215215,49806
+1010,2025-01-20,South,Office Supplies,Stapler,2,8402,1562
+1011,2025-02-11,West,Technology,Smartwatch,2,55512,13403
+1012,2025-07-10,North,Office Supplies,Stapler,9,34551,5392
+1013,2025-07-06,West,Office Supplies,Pen Set,2,17526,3158
+1014,2025-03-10,South,Technology,Smartphone,1,29752,3062
+1015,2025-06-27,West,Technology,Headphones,1,45345,8761
+1016,2025-01-19,South,Office Supplies,Printer Paper,4,124456,18669
+1017,2025-04-16,South,Office Supplies,Printer Paper,2,82686,9195
+1018,2025-05-03,East,Office Supplies,Marker Pack,7,56868,10082
+1019,2025-06-17,West,Office Supplies,Notebook Pack,7,98329,11010
+1020,2025-06-28,South,Office Supplies,Notebook Pack,10,461610,55879
+1021,2025-05-25,North,Technology,Headphones,10,377980,44692
+1022,2025-08-07,West,Furniture,Desk,9,85212,11250
+1023,2025-05-05,North,Technology,Laptop,1,4966,1097
+1024,2025-05-20,South,Office Supplies,Notebook Pack,6,280692,45651
+1025,2025-01-24,South,Technology,Tablet,6,128280,30035
+1026,2025-08-02,West,Furniture,Desk,8,340824,60504
+1027,2025-04-02,South,Technology,Smartwatch,3,49974,9009
+1028,2025-02-23,East,Furniture,Sofa,4,11664,2561
+1029,2025-03-02,South,Office Supplies,Printer Paper,7,180740,40421
+1030,2025-03-22,East,Technology,Smartwatch,2,4368,938
+1031,2025-02-14,West,Office Supplies,Marker Pack,1,10815,1136
+1032,2025-04-26,South,Technology,Smartwatch,10,96140,9707
+1033,2025-04-15,West,Technology,Smartwatch,2,50878,6182
+1034,2025-01-28,West,Office Supplies,Notebook Pack,3,127812,19638
+1035,2025-06-12,North,Furniture,Office Chair,3,71781,13503
+1036,2025-04-25,West,Office Supplies,Notebook Pack,3,77742,17199
+1037,2025-04-24,North,Technology,Smartwatch,10,391460,61110
+1038,2025-03-03,East,Technology,Laptop,5,122925,18011
+1039,2025-05-12,South,Furniture,Office Chair,8,86904,19045
+1040,2025-03-21,West,Technology,Tablet,7,50407,11914
+1041,2025-02-09,North,Technology,Smartphone,9,331353,52220
+1042,2025-06-20,West,Office Supplies,Stapler,2,17896,3480
+1043,2025-04-05,East,Office Supplies,Notebook Pack,5,86045,18763
+1044,2025-07-19,West,Technology,Smartphone,2,79354,17778
+1045,2025-07-07,West,Furniture,Bookshelf,8,102520,18370
+1046,2025-03-09,South,Technology,Headphones,8,367656,71743
+1047,2025-06-04,North,Office Supplies,Printer Paper,3,15933,3480
+1048,2025-08-22,North,Office Supplies,Marker Pack,4,102440,10936
+1049,2025-08-10,North,Furniture,Office Chair,6,289644,61125
+1050,2025-05-28,South,Office Supplies,Stapler,6,237342,36726
+1051,2025-02-13,South,Technology,Smartphone,1,31990,3880
+1052,2025-02-22,West,Furniture,Sofa,1,41319,5894
+1053,2025-06-05,North,Office Supplies,Notebook Pack,10,294450,43024
+1054,2025-07-18,West,Office Supplies,Printer Paper,9,275913,51683
+1055,2025-04-04,East,Furniture,Desk,10,430460,80872
+1056,2025-07-02,East,Furniture,Bookshelf,7,341075,65504
+1057,2025-04-14,East,Technology,Smartphone,7,262465,57468
+1058,2025-04-25,North,Technology,Tablet,10,16620,3192
+1059,2025-01-18,East,Furniture,Bookshelf,6,59538,6587
+1060,2025-08-26,North,Furniture,Desk,4,154788,27298
+1061,2025-05-12,West,Office Supplies,Notebook Pack,5,165420,39643
+1062,2025-07-30,West,Office Supplies,Notebook Pack,8,61064,14953
+1063,2025-08-25,West,Technology,Tablet,7,65436,10947
+1064,2025-08-04,North,Furniture,Sofa,2,98732,17325
+1065,2025-07-09,East,Furniture,Bookshelf,4,50192,5194
+1066,2025-06-26,North,Furniture,Bookshelf,4,149112,33997
+1067,2025-08-02,East,Furniture,Bookshelf,6,188016,40945
+1068,2025-03-15,West,Office Supplies,Printer Paper,1,21645,3643
+1069,2025-03-08,East,Furniture,Sofa,10,467580,74616
+1070,2025-07-10,North,Furniture,Office Chair,8,21752,3955
+1071,2025-01-21,East,Furniture,Bookshelf,6,244992,35878
+1072,2025-08-05,East,Furniture,Desk,4,176468,31293
+1073,2025-01-16,South,Furniture,Bookshelf,10,118940,29303
+1074,2025-04-09,East,Technology,Smartphone,7,222929,32976
+1075,2025-06-07,East,Office Supplies,Marker Pack,1,40603,5841
+1076,2025-01-09,West,Technology,Smartwatch,3,107445,11698
+1077,2025-02-21,West,Office Supplies,Printer Paper,10,87060,18924
+1078,2025-05-15,East,Furniture,Office Chair,5,230845,42718
+1079,2025-03-30,South,Office Supplies,Marker Pack,9,62622,15461
+1080,2025-06-23,East,Furniture,Bookshelf,3,147357,34175
+1081,2025-07-25,South,Technology,Tablet,3,45060,7676
+1082,2025-05-10,South,Furniture,Sofa,4,161528,20337
+1083,2025-08-22,West,Furniture,Desk,1,19356,3646
+1084,2025-03-01,West,Furniture,Bookshelf,3,71796,11156
+1085,2025-07-17,North,Office Supplies,Stapler,10,224320,38123
+1086,2025-07-07,South,Office Supplies,Pen Set,9,92988,21363
+1087,2025-01-31,South,Office Supplies,Notebook Pack,8,322096,53137
+1088,2025-03-08,North,Office Supplies,Notebook Pack,10,413500,52686
+1089,2025-06-06,West,Technology,Headphones,3,94080,10443
+1090,2025-01-16,West,Technology,Headphones,7,120729,28502
+1091,2025-03-31,West,Technology,Smartwatch,5,153295,23683
+1092,2025-02-02,West,Technology,Smartphone,5,234545,30374
+1093,2025-06-08,South,Office Supplies,Pen Set,9,227853,56839
+1094,2025-04-01,South,Office Supplies,Marker Pack,8,66944,10707
+1095,2025-02-23,North,Office Supplies,Printer Paper,8,264456,62740
+1096,2025-05-09,East,Furniture,Office Chair,2,88424,14065
+1097,2025-04-06,West,Office Supplies,Notebook Pack,8,293464,51931
+1098,2025-08-18,West,Furniture,Desk,4,142492,24189
+1099,2025-06-09,North,Office Supplies,Notebook Pack,1,24504,5399
+1100,2025-07-06,North,Office Supplies,Printer Paper,2,26240,4855
